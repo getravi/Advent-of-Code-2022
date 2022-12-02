@@ -2,3 +2,5 @@ inputs/
 
 # Mac/OSX
 .DS_Store
+
+test.py
