@@ -1,4 +1,4 @@
-fileobj = open("./inputs/day1.csv")
+fileobj = open("./inputs/day1.txt")
 lines = fileobj.read().split('\n')
 elfNum = 0
 data = []
